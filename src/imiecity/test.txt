@@ -1,2 +1,7 @@
-Ceci est un est Test, ca marche ?
-HELLO, WORLD !
+Rappel pour faire un commit :
+
+Git add [NOM DU/DES FICHIERS]
+Git commit -m [COMMENTAIRE POUR COMMIT] dans le staging area
+Git push [mise en ligne]
+
+Git pull [pour telecharger derniere version]
